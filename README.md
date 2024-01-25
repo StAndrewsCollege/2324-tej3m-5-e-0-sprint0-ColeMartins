@@ -28,6 +28,7 @@ You will follow the steps outlined below (for both this sprint and those for our
 
 ### Research
 
+
 You will research and document technical resources that you believe will help you succeed at the sprint.
 
 ### Ideation
