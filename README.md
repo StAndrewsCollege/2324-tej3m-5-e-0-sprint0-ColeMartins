@@ -6,10 +6,7 @@ You will document and submit your design process in this GitHub repository. Your
 
 ## Goal
 
-For your roboCup sprints you will be setting your own goals that can be completed within a given time (usually two weeks). For our first sprint your goal will be given to you and will be completed in one week.
-
-`Create a design for the tallest possible tower using a single sheet of plain printer paper`
-
+my goal is awsome
 ### Restrictions
 
 - No tape, glue, water or other adhesive
